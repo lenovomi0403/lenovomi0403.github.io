@@ -235,17 +235,17 @@ for (let index = 0; index < Education.length; index++) {
 // ↓ innennerHTML with jQuery about experience
 var Experience = [
     {   
-        url:'https://its.taiwanjobs.gov.tw/Course/Detail?ID=141583',
-        img: './01-img/01-img/05_its-taiwanjobs.png',
-        alt:'05_its-taiwanjobs.png',
+        url:'https://www.focusit.com.tw/',
+        img: './01-img/01-img/08_FIT.png',
+        alt:'08_FIT.png',
         size: "height:80px;width: 200px;",
-        img_title:'台灣就業通 職前訓練網',
-        title: '<mark style="padding:0 10px 0 0;">123跨平台網站製作 - 介面規劃與RWD前端程式開發班</mark>&nbsp;<small>學員</small>',
-        company: "台灣就業通 職前訓練",
-        during: 'Feb 2020 ~ May 2020',
-        projects:'<div class="pb-2">Graphic Design<br>a. Adobe Photoshop<br>b. Adobe Illustrator</div><div class="pb-2">Front-end web development<br>a. HTML<br>b. CSS<br>c. JavaScript / jQuery</div>Git版本控制。<br>Bootstrap框架網站開發。<br>UX/User Experience用戶體驗流程與設計。',
-        content: '/ 今年年初的時候利用了非自願離職的身份報名了勞動部開辦的<br>[&ensp;跨平台網站製作&nbsp;-&nbsp;介面規劃與RWD前端程式開發&ensp;]&ensp;職前訓練課程，並且有甄試錄取通過。<br>開啟了朝著前端工程師方向發展之路。<br>目前已領到結訓證書，並且在結訓之前完成至少三個前端個人作品。<br>未來將會持續學習專業技能。/',
-        name:'台灣就業通 職前訓練網',
+        img_title:'準線智慧科技股份有限公司',
+        title: '<mark style="padding:0 10px 0 0;">助理規劃師</mark>',
+        company: "準線智慧科技股份有限公司",
+        during: 'Jul 2020 ~ Aug 2024',
+        projects:'系統操作、檢測及例行性維護。<br>資料備份。<br>文件製作與文書處理。<br>軟體系統服務，協助客戶系統問題排除。<br>協助主管交辦之事項及回報主管狀況。',
+        content: '/ 工作中負責軟體系統的維護。因職務關係，也需密集的與硬體廠商、公部門機關提供技術支持的服務。在職的這段期間，也更熟悉在系統中各設備的架構，以便問題發生時能快速檢測維護以提高系統的可用性。/',
+        name:'準線智慧科技股份有限公司',
     },
     {   
         url:'https://its.taiwanjobs.gov.tw/Course/Detail?ID=141583',
